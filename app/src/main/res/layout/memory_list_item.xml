@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/background_activated">
+
+    <TextView
+        android:id="@+id/list_item_memoryTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:textStyle="bold"
+        android:paddingLeft="4dp"
+        android:paddingRight="4dp"
+        android:text="Title"/>
+
+    <TextView
+        android:id="@+id/list_item_memoryLocation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/list_item_memoryTitle"
+        android:paddingLeft="4dp"
+        android:paddingRight="4dp"
+        android:text="Location"/>
+
+    <TextView
+        android:id="@+id/list_item_memoryDate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/list_item_memoryLocation"
+        android:paddingLeft="4dp"
+        android:paddingRight="4dp"
+        android:text="Date"/>
+
+</RelativeLayout>

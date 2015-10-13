@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="memories_Title" type="id">Memory</item>
+    <item name="viewPager" type="id" />
+    <item name="date_picker_title" type="id">Date of Storing</item>
+</resources>

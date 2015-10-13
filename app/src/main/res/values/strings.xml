@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MemoryTag</string>
+    <string name="action_settings">Settings</string>
+    <string name="memory_title_label">Title</string>
+    <string name="location_label">Location</string>
+    <string name="memory_location_hint">Enter the Location it is placed</string>
+    <string name="memory_title_hint">Name of the object you might forget</string>
+    <string name="time_setting">Change Time</string>
+    <string name="memory_notes_label">Description of the object</string>
+    <string name="new_memory">New Memory</string>
+    <string name="delete_memory">Delete Memory</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="Subtitle">Add things you want to remember</string>
+    <string name="capture">Capture</string>
+
+</resources>
